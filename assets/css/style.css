@@ -41,6 +41,7 @@ header nav ul li a {
 }
 
 footer {
+  background: #fce138;
   width: 100%;
   padding: 40px 35px;
 }
@@ -173,4 +174,8 @@ section {
 
 .steps span {
   font-size: 38px;
+}
+
+.trainers {
+  text-align: center;
 }
