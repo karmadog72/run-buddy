@@ -1,3 +1,1 @@
 # run-buddy
-
-test
