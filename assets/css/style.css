@@ -39,6 +39,7 @@ header nav ul {
   align-items: center;
   list-style: none;
 }
+
 header nav ul li a {
   margin: 0 30px;
   font-weight: lighter;
