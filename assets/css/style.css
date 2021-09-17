@@ -1,3 +1,14 @@
+:root {
+  --primary-color: #fce138;
+  --secondary-color: #024e76;
+  --tertiary-color: #39a6b2;
+  div {
+    --favorite-color: blue;
+    color: var(--favorite-color);
+    box-shadow: 5px 5px 10px var(--favorite-color);
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
